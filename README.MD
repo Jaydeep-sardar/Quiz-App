@@ -72,6 +72,4 @@ Happy Coding! 💻🚀
 
 ---
 Happy quizzing! 🎉
-```
-
 ---
